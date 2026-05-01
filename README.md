@@ -28,3 +28,5 @@ Press 'g' so start once 4 locations are logged."
 2. this ensures dots on the mini map do not get detected. Basically its the furthest right where it will scan.
 3. & 4. create a box where the skill XP it changing (click "XP" next to Mini Map to display and/or start combat to see where it is)
    this box can really be anywhere, but it needs to capture ONLY things that change with each attack. if any other movement in this box is detected then it may not put you back in combat properly.
+
+ZOOM OUT TO ENSURE CAVE TILE AND BOSS DO NOT GO OFF SCREEN
