@@ -1,5 +1,6 @@
 Copy exe to anywhere on your computer.
 Very likely the virus checker will ask for permission.
+Uses Pyautogui, Pynput
 
 Set up the Ground Tile Markers to the colours in the .PNG files.
 
